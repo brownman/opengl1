@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dao01/IRRLICHT/bullet-2.77+svn2218/Demos/BulletDinoDemo/BulletDino.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+windows.h
+-
+OpenGL/gl.h
+-
+OpenGL/glu.h
+-
+GLUT/glut.h
+-
+GL/glut.h
+-
+GL/glext.h
+-
+Bullet-C-Api.h
+/home/dao01/IRRLICHT/bullet-2.77+svn2218/Demos/BulletDinoDemo/Bullet-C-Api.h
+
